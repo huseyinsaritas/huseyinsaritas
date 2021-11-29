@@ -5,21 +5,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://codepen.io/huseyinsaritas" target="blank"
-    ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="huseyinsaritas" height="30" width="40"
-  /></a>
   <a href="https://linkedin.com/in/huseyinsaritas" target="blank"
-    ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="huseyinsaritas" height="30" width="40"
+    ><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="huseyinsaritas" height="40" width="40"
   /></a>
   <a href="https://medium.com/@huseyinsaritas" target="blank"
-    ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@huseyinsaritas" height="30" width="40"
+    ><img align="center" src="https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" alt="@huseyinsaritas" height="40" width="40"
   /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/Bootstrap-512.png" alt="bootstrap" width="40" height="40" />
+    <img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png" alt="bootstrap" width="35" height="35" />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/css3-512.png" alt="css3" width="40" height="40" />
@@ -43,7 +40,7 @@
     <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://cdn0.iconfinder.com/data/icons/hippicons-technology/64/database-alt-512.png" alt="mongodb" width="40" height="40" />
+    <img src="https://www.pngitem.com/pimgs/m/385-3850320_png-transparent-mongodb-icon-mongodb-logo-png-download.png" alt="mongodb" width="40" height="40" />
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" alt="mysql" width="40" height="40" />
